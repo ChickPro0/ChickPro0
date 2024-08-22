@@ -1,3 +1,3 @@
-## Hi there 👋
+반갑습니다.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
